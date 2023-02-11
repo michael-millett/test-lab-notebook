@@ -1,5 +1,5 @@
 ---
-title: "Journal Log"
+title: "Test Site"
 output:
   html_document:
     toc: true
